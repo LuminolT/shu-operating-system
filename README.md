@@ -18,4 +18,4 @@
 ## 研讨
 
 - 研讨1：Not attend
-- 研讨2：利用信号量集解决Reader-and-Writer问题
+- 研讨2：[利用信号量集解决Reader-and-Writer问题](https://github.com/LuminolT/operating-system-disc-2)
