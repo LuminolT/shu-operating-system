@@ -11,7 +11,7 @@
 
 - 实验1：Linux基本操作（CLI）
 - 实验2：Linux基本操作（GUI）
-- 实验3：进程管理和进程通信
+- 实验3：[进程管理和进程通信](https://github.com/LuminolT/operating-system-exp-1)
 
 > 实验1、2仅有报告，想起来了再上传
 
